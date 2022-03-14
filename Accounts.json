@@ -1,0 +1,14 @@
+{
+    "1": {
+        "username": "asadmarcus",
+        "first_name": "asad",
+        "last_name": "marcus",
+        "date_of_birth": "990615"
+    },
+    "2": {
+        "username": "johnsmith",
+        "first_name": "John",
+        "last_name": "Smith",
+        "date_of_birth": "010528"
+    }
+}
